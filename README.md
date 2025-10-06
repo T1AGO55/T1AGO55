@@ -7,4 +7,4 @@ Estou começando na área de TI. Atualmente estudando as linguagens java e C. Ta
 
 
 ## 🛠 Habilidades
-Iniciante Java, Intermediario C e Pouco experiente em MySQL
+Iniciante Java, Intermediario C e Muito pouco experiente em MySQL
