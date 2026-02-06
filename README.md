@@ -2,8 +2,8 @@
 
 
 ## 🚀 Sobre mim
-Estou começando na área de TI. Atualmente estudando as linguagens java e C. Também vou começar a aprender MySQL.
+Estou começando na área de TI. Atualmente estudando as linguagens java e C.
 
 
 ## 🛠 Habilidades
-Iniciante Java, Intermediario C e Muito pouco experiente em MySQL
+Iniciante Java, Intermediario C.
