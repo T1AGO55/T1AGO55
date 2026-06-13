@@ -2,4 +2,4 @@
 
 
 ## 🚀 Sobre mim
-Estou começando na área de TI. Atualmente estudando as linguagens java e C.
+Estou começando na área de TI. Atualmente estudando java, SpringBoot, MySQL.
