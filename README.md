@@ -1,10 +1,8 @@
 
 <!--
   README de perfil — Tiago Toshimitsu
-  Tema: preto + roxo | Minimalista | Engenharia de Software
-
-  Para ativar o README de perfil, salve este arquivo como README.md
-  em um repositório público chamado exatamente: T1AGO55
+  Tema: preto e roxo | Minimalista | Engenharia de Software
+  Repositório: T1AGO55/T1AGO55
 -->
 
 <div align="center">
@@ -20,7 +18,7 @@
   <br/>
 
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-8B5CF6?style=flat-square" alt="Foco em Engenharia de Software"/>
-  <img src="https://img.shields.io/badge/Code-Java%20%7C%20Dart%20%7C%20C-A78BFA?style=flat-square" alt="Linguagens"/>
+  <img src="https://img.shields.io/badge/Code-Java%20%7C%20Dart%20%7C%20C-A78BFA?style=flat-square" alt="Linguagens de programação"/>
 
 </div>
 
@@ -32,14 +30,16 @@ Olá! Sou **Tiago Toshimitsu**, estudante de Engenharia de Software.
 
 Tenho interesse em desenvolvimento de software e venho construindo minha base técnica por meio dos estudos e de projetos acadêmicos.
 
-Atualmente, minhas principais tecnologias de estudo e desenvolvimento incluem Java, Spring Boot, Dart, PostgreSQL, MySQL e C.
+Atualmente, estudo e utilizo tecnologias como Java, Spring Boot, Dart, PostgreSQL, MySQL e C.
 
-Este perfil reúne projetos, experimentos e parte da minha evolução como desenvolvedor.
+Este perfil reúne meus projetos e parte da minha evolução na área de tecnologia.
 
 <div align="center">
+
   <img src="https://img.shields.io/badge/Aprender-8B5CF6?style=flat-square" alt="Aprender"/>
   <img src="https://img.shields.io/badge/Praticar-A78BFA?style=flat-square" alt="Praticar"/>
   <img src="https://img.shields.io/badge/Evoluir-C4B5FD?style=flat-square" alt="Evoluir"/>
+
 </div>
 
 ---
@@ -48,39 +48,39 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
 
 <div align="center">
 
-### Linguagens
+  ### Linguagens
 
-<a href="https://www.java.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://dart.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-</a>
+  <a href="https://www.java.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+  </a>
+  &nbsp;
+  <a href="https://dart.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart"/>
+  </a>
+  &nbsp;
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+  </a>
 
-### Frameworks e desenvolvimento
+  ### Frameworks e desenvolvimento
 
-<a href="https://spring.io/projects/spring-boot">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://flutter.dev/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
-</a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot"/>
+  </a>
+  &nbsp;
+  <a href="https://flutter.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
+  </a>
 
-### Bancos de dados
+  ### Bancos de dados
 
-<a href="https://www.postgresql.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-</a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+  </a>
 
 </div>
 
@@ -93,12 +93,12 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">API de Agendamentos Médicos</h3>
+      <h3 align="center">API de Gerenciamento de Agendamentos Médicos</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Projeto-Acadêmico-8B5CF6?style=flat-square" alt="Projeto acadêmico"/>
       </p>
       <p>
-        Projeto acadêmico voltado ao gerenciamento de agendamentos médicos por meio de uma API REST.
+        Projeto acadêmico de uma API REST para gerenciamento de agendamentos médicos, desenvolvido como parte dos estudos de programação e desenvolvimento backend.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -107,7 +107,7 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
         <img src="https://img.shields.io/badge/REST%20API-8B5CF6?style=flat-square" alt="REST API"/>
       </p>
       <p align="center">
-        <a href="[https://github.com/T1AGO55?tab=repositories](https://github.com/T1AGO55/Agendamento_medico)">Explorar repositórios ↗</a>
+        <a href="https://github.com/T1AGO55/Agendamento_medico">Ver repositório →</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -116,14 +116,14 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
         <img src="https://img.shields.io/badge/Projeto-Dart%20%2F%20Flutter-A78BFA?style=flat-square" alt="Projeto Dart e Flutter"/>
       </p>
       <p>
-        Projeto de gerenciamento de manutenção de hardware desenvolvido no contexto de estudos com Dart e Flutter.
+        Projeto acadêmico voltado ao gerenciamento de manutenção de hardware, desenvolvido durante os estudos de Dart e Flutter.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
       </p>
       <p align="center">
-        <a href="[https://github.com/T1AGO55?tab=repositories](https://github.com/Deniel132/trabalho_dart_flutter)">Explorar repositórios ↗</a>
+        <a href="https://github.com/Deniel132/trabalho_dart_flutter">Ver repositório →</a>
       </p>
     </td>
   </tr>
@@ -131,45 +131,63 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
 
 </div>
 
-> **Nota:** os links dos cards levam à lista de repositórios do perfil, pois os endereços específicos dos dois projetos ainda não foram informados. Quando os repositórios estiverem publicados, substitua esses links pelas URLs individuais.
-
 ---
 
-## `04` — GitHub em números
+## `04` — GitHub Stats
 
 <div align="center">
 
-<!-- Estatísticas do perfil -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<!-- Linguagens detectadas nos repositórios públicos -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais utilizadas nos repositórios"/>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Sequência de contribuições -->
-<img src="https://streak-stats.demolab.com?user=T1AGO55&theme=transparent&hide_border=true&background=0D1117&stroke=30105E&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições"/>
+  <img src="https://streak-stats.demolab.com?user=T1AGO55&theme=transparent&hide_border=true&background=0D1117&stroke=30105E&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições no GitHub"/>
+
+</div>
+
+> **Observação:** os cards são gerados por serviços externos. As linguagens exibidas são calculadas a partir dos repositórios analisados pelo serviço, e não representam necessariamente todas as tecnologias que você conhece. As estatísticas podem demorar para atualizar ou ficar temporariamente indisponíveis.
+
+---
+
+## `05` — Atividade no GitHub
+
+O gráfico de atividade externo foi retirado temporariamente porque o serviço utilizado estava retornando erro. Para evitar uma imagem quebrada, consulte suas contribuições diretamente no GitHub enquanto configura uma alternativa:
+
+<div align="center">
+
+<a href="https://github.com/T1AGO55">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20minhas%20contribui%C3%A7%C3%B5es-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições no GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## `05` — Snake Contribution
+## `06` — Conquistas
 
 <div align="center">
 
-<!--
-A imagem abaixo só será exibida depois que o workflow do GitHub Actions
-for criado e executado no repositório de perfil T1AGO55/T1AGO55.
--->
-
-<img src="https://raw.githubusercontent.com/T1AGO55/T1AGO55/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake das contribuições do GitHub"/>
+  <a href="https://github.com/T1AGO55?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Explorar%20conquistas-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Consultar conquistas do GitHub"/>
+  </a>
 
 </div>
 
-### Como ativar a animação
+As conquistas disponíveis podem ser consultadas diretamente no seu perfil. Nenhum troféu foi presumido ou inventado.
 
-Crie o arquivo `.github/workflows/snake.yml` no repositório `T1AGO55/T1AGO55` com o conteúdo abaixo. **Este é um arquivo separado do README.md.**
+---
+
+## `07` — Snake Contribution
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/T1AGO55/T1AGO55/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake das contribuições do GitHub"/>
+
+</div>
+
+**Para ativar a animação**, crie o arquivo `.github/workflows/snake.yml` no repositório `T1AGO55/T1AGO55`, separado do README, com o conteúdo abaixo:
 
 ```yaml
 name: Generate Snake
@@ -206,14 +224,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Depois de salvar o workflow:
+### Como ativar
 
-1. Abra a aba **Actions** do repositório.
-2. Se necessário, habilite as GitHub Actions nas configurações do repositório.
-3. Execute **Generate Snake** em *Run workflow*.
-4. Aguarde a conclusão e confirme que a branch `output` foi criada.
+1. Salve o workflow na branch principal do repositório de perfil.
+2. Abra a aba **Actions**.
+3. Se necessário, habilite as GitHub Actions nas configurações do repositório.
+4. Execute **Generate Snake → Run workflow**.
+5. Aguarde a execução terminar com sucesso.
+6. Confirme que a branch `output` foi criada e contém os arquivos SVG.
 
-A animação não aparecerá até que o workflow seja executado com sucesso.
+A imagem da Snake só aparecerá depois que o workflow publicar o arquivo com sucesso. Se sua branch principal não for `main`, ajuste o nome no workflow.
 
 ---
 
@@ -221,13 +241,13 @@ A animação não aparecerá até que o workflow seja executado com sucesso.
 
 <div align="center">
 
-<a href="https://github.com/T1AGO55">
-  <img src="https://img.shields.io/badge/GitHub-T1AGO55-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/tiago-toshimitsu-9164643ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="https://github.com/T1AGO55">
+    <img src="https://img.shields.io/badge/GitHub-T1AGO55-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tiago-toshimitsu-9164643ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
 </div>
 
@@ -235,10 +255,10 @@ A animação não aparecerá até que o workflow seja executado com sucesso.
 
 <div align="center">
 
-### Obrigado por visitar meu perfil.
+  ### Obrigado por visitar meu perfil!
 
-*Um passo de cada vez, uma linha de código de cada vez.*
+  *Um passo de cada vez, uma linha de código de cada vez.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:30105E,100:0D1117&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:30105E,100:0D1117&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
 
 </div>
