@@ -30,7 +30,7 @@ Olá! Sou **Tiago Toshimitsu**, estudante de Engenharia de Software.
 
 Tenho interesse em desenvolvimento de software e venho construindo minha base técnica por meio dos estudos e de projetos acadêmicos.
 
-Atualmente, estudo e utilizo tecnologias como Java, Spring Boot, Dart, PostgreSQL, MySQL e C.
+Atualmente, estudo e utilizo tecnologias como Python, Java, Spring Boot, Dart, PostgreSQL, MySQL e C.
 
 Este perfil reúne meus projetos e parte da minha evolução na área de tecnologia.
 
