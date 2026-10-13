@@ -118,7 +118,6 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 ---
 
----
 
 ## <code>04 / GITHUB ANALYTICS</code>
 
@@ -126,11 +125,11 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=D8D4E8&rank_icon=github&include_all_commits=true" width="100%" alt="Estatísticas do GitHub"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=D8D4E8&rank_icon=github&include_all_commits=true" width="350" alt="Estatísticas do GitHub"/>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=D8D4E8&langs_count=5&card_width=300" width="100%" alt="Linguagens dos repositórios"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=D8D4E8&langs_count=5&card_width=350" width="350" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
@@ -140,6 +139,8 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 <img width="75%" src="https://streak-stats.demolab.com?user=T1AGO55&theme=transparent&hide_border=true&background=0D0B14&stroke=5426A8&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=D8D4E8&dates=8B849D" alt="Sequência de contribuições"/>
 
 </div>
+
+
 
 
 ---
