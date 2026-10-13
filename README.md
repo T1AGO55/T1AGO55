@@ -149,36 +149,6 @@ Este perfil reúne meus projetos e parte da minha evolução na área de tecnolo
 
 > **Observação:** os cards são gerados por serviços externos. As linguagens exibidas são calculadas a partir dos repositórios analisados pelo serviço, e não representam necessariamente todas as tecnologias que você conhece. As estatísticas podem demorar para atualizar ou ficar temporariamente indisponíveis.
 
----
-
-## `05` — Atividade no GitHub
-
-O gráfico de atividade externo foi retirado temporariamente porque o serviço utilizado estava retornando erro. Para evitar uma imagem quebrada, consulte suas contribuições diretamente no GitHub enquanto configura uma alternativa:
-
-<div align="center">
-
-<a href="https://github.com/T1AGO55">
-  <img src="https://img.shields.io/badge/GitHub-Ver%20minhas%20contribui%C3%A7%C3%B5es-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver contribuições no GitHub"/>
-</a>
-
-</div>
-
----
-
-## `06` — Conquistas
-
-<div align="center">
-
-  <a href="https://github.com/T1AGO55?tab=achievements">
-    <img src="https://img.shields.io/badge/GitHub-Explorar%20conquistas-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Consultar conquistas do GitHub"/>
-  </a>
-
-</div>
-
-As conquistas disponíveis podem ser consultadas diretamente no seu perfil. Nenhum troféu foi presumido ou inventado.
-
----
-
 ## `07` — Snake Contribution
 
 <div align="center">
@@ -186,54 +156,6 @@ As conquistas disponíveis podem ser consultadas diretamente no seu perfil. Nenh
   <img src="https://raw.githubusercontent.com/T1AGO55/T1AGO55/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake das contribuições do GitHub"/>
 
 </div>
-
-**Para ativar a animação**, crie o arquivo `.github/workflows/snake.yml` no repositório `T1AGO55/T1AGO55`, separado do README, com o conteúdo abaixo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: T1AGO55
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Como ativar
-
-1. Salve o workflow na branch principal do repositório de perfil.
-2. Abra a aba **Actions**.
-3. Se necessário, habilite as GitHub Actions nas configurações do repositório.
-4. Execute **Generate Snake → Run workflow**.
-5. Aguarde a execução terminar com sucesso.
-6. Confirme que a branch `output` foi criada e contém os arquivos SVG.
-
-A imagem da Snake só aparecerá depois que o workflow publicar o arquivo com sucesso. Se sua branch principal não for `main`, ajuste o nome no workflow.
 
 ---
 
