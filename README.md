@@ -23,7 +23,6 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base tÃ
 
 Atualmente, estudo tecnologias como **Java, Spring Boot, Python, Dart, Flutter, C, PostgreSQL e MySQL**, buscando transformar conhecimento em prÃ¡tica e evoluir como desenvolvedor.
 
-> Aprender, praticar e melhorar a cada projeto.
 
 ---
 
