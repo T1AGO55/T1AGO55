@@ -134,10 +134,6 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 </div>
 
-<p align="center">
-  <sub>As estatísticas dependem de serviços externos e podem ficar temporariamente indisponíveis.</sub>
-</p>
-
 ---
 
 ## <code>05 / CONTRIBUTION SNAKE</code>
@@ -166,7 +162,4 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,45:30105E,100:080810&section=footer" width="100%" alt="Rodapé"/>
 
-  <sub>Building skills, one line of code at a time.</sub>
-
 </div>
-```
