@@ -144,21 +144,20 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 </div>
 
 ---
-
 ## <code>06 / CONNECT</code>
 
 <div align="center">
 
-  <a href="https://github.com/T1AGO55">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tiago-toshimitsu-9164643ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,45:30105E,100:080810&section=footer" width="100%" alt="Rodapé"/>
+<a href="https://github.com/T1AGO55">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tiago-toshimitsu-9164643ab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,45:30105E,100:080810&section=footer" width="100%" alt="Rodapé"/>
