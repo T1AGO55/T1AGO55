@@ -125,10 +125,10 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img height="165" src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=D8D4E8&rank_icon=github&include_all_commits=true" width="350" alt="Estatísticas do GitHub"/>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=D8D4E8&langs_count=5&card_width=350" width="350" alt="Most Used Languages"/>
     </td>
   </tr>
