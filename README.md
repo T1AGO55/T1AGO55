@@ -154,16 +154,28 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
 
 ---
 
+
+
+---
+
 ## `05` — Atividade
 
 <div align="center">
 
-<!-- Gráfico de atividade -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=T1AGO55&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=30105E&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Gráfico de atividade no GitHub"/>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-30d.svg"
+  alt="Gráfico de atividade do GitHub nos últimos 30 dias"
+/>
+
+[30 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-30d.svg) ·
+[90 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-90d.svg) ·
+[365 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-365d.svg)
 
 </div>
 
 ---
+
 
 ## `06` — Conquistas
 
