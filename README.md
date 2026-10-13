@@ -10,7 +10,6 @@
   <br/>
 
   <img src="https://img.shields.io/badge/FOCO-Software%20Engineering-6D28D9?style=for-the-badge&labelColor=0D0B14" alt="Foco"/>
-  <img src="https://img.shields.io/badge/STATUS-Always%20Learning-A78BFA?style=for-the-badge&labelColor=0D0B14" alt="Aprendizado"/>
 
 </div>
 
