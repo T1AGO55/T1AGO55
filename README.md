@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ## <code>01 / SOBRE MIM</code>
 
 Olá! Sou **Tiago Toshimitsu**, estudante de Engenharia de Software.
@@ -21,6 +23,8 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base t�
 
 Atualmente, estudo tecnologias como **Java, Spring Boot, Python, Dart, Flutter, C, PostgreSQL e MySQL**, buscando transformar conhecimento em prática e evoluir como desenvolvedor.
 
+
+---
 
 ## <code>02 / TECH STACK</code>
 
@@ -74,6 +78,7 @@ Atualmente, estudo tecnologias como **Java, Spring Boot, Python, Dart, Flutter, 
 
 </div>
 
+---
 
 ## <code>03 / PROJETOS</code>
 
@@ -111,7 +116,7 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
   </tr>
 </table>
 
-
+---
 
 ## <code>04 / GITHUB ANALYTICS</code>
 
@@ -127,6 +132,7 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 </div>
 
+---
 
 ## <code>05 / CONTRIBUTION SNAKE</code>
 
@@ -136,7 +142,7 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 </div>
 
-
+---
 
 ## <code>06 / CONNECT</code>
 
