@@ -107,7 +107,7 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
         <img src="https://img.shields.io/badge/REST%20API-8B5CF6?style=flat-square" alt="REST API"/>
       </p>
       <p align="center">
-        <a href="https://github.com/T1AGO55?tab=repositories">Explorar repositórios ↗</a>
+        <a href="[https://github.com/T1AGO55?tab=repositories](https://github.com/T1AGO55/Agendamento_medico)">Explorar repositórios ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -123,7 +123,7 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
       </p>
       <p align="center">
-        <a href="https://github.com/T1AGO55?tab=repositories">Explorar repositórios ↗</a>
+        <a href="[https://github.com/T1AGO55?tab=repositories](https://github.com/Deniel132/trabalho_dart_flutter)">Explorar repositórios ↗</a>
       </p>
     </td>
   </tr>
@@ -154,7 +154,7 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
 
 ---
 
-## `07` — Snake Contribution
+## `05` — Snake Contribution
 
 <div align="center">
 
