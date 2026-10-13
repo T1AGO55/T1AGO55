@@ -158,30 +158,27 @@ Este perfil reúne projetos, experimentos e parte da minha evolução como desen
 
 ---
 
+
 ## `05` — Atividade
 
 <div align="center">
 
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-30d.svg"
-  alt="Gráfico de atividade do GitHub nos últimos 30 dias"
-/>
+<img width="100%" src="https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-30d.svg" alt="Gráfico de atividade do GitHub — últimos 30 dias"/>
 
-[30 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-30d.svg) ·
-[90 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-90d.svg) ·
-[365 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-365d.svg)
+[30 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-30d.svg) · [90 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-90d.svg) · [365 dias](https://raw.githubusercontent.com/T1AGO55/T1AGO55/activity-assets/activity-365d.svg)
 
 </div>
 
----
 
+---
 
 ## `06` — Conquistas
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=T1AGO55&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Conquistas do GitHub"/>
+<a href="https://github.com/T1AGO55?tab=achievements">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20conquistas-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver conquistas no GitHub"/>
+</a>
 
 </div>
 
