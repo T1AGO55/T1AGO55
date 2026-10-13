@@ -123,45 +123,17 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=D8D4E8&rank_icon=github&include_all_commits=true&card_width=350"
-        width="350"
-        height="165"
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=D8D4E8&langs_count=5&card_width=350"
-        width="350"
-        height="165"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/T1AGO55">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&icon_color=8B5CF6&text_color=D8D4E8&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub"/>
+</a><a href="https://github.com/T1AGO55">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4B5FD&text_color=D8D4E8&langs_count=5" alt="Linguagens mais utilizadas"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=T1AGO55&theme=transparent&hide_border=true&background=0D0B14&stroke=5426A8&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=D8D4E8&dates=8B849D" alt="Sequência de contribuições"/>
 
 </div>
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=T1AGO55&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1AGO55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Linguagens mais utilizadas nos repositórios"/>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=T1AGO55&theme=transparent&hide_border=true&background=0D1117&stroke=30105E&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições no GitHub"/>
-
-</div>
-
 
 
 ---
