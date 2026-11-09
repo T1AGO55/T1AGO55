@@ -110,7 +110,7 @@ Projeto acadêmico desenvolvido durante os estudos de Dart e Flutter, com foco n
 
 **Tecnologias:** Dart e Flutter.
 
-[→ Acessar repositório](https://github.com/Deniel132/trabalho_dart_flutter)
+[→ Acessar repositório](https://github.com/T1AGO55/gerenciamento_de_manutencao_de_hardware)
 
   </td>
   </tr>
